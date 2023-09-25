@@ -2,3 +2,11 @@
 
 task 1 content
 sexond line added through vs code
+going to push through terminal
+
+//git status
+git statusgit diff filename -> optional
+git add .
+git status
+git commit -m "git pushed through erminal"
+git push
